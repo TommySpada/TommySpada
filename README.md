@@ -1,7 +1,3 @@
-Perfetto, ti preparo una versione **pulita, seria e professionale**, adatta anche a recruiter o aziende.
-
----
-
 # Tommaso Spada
 
 Studente di Informatica e Telecomunicazioni con una solida base nello sviluppo software e web. Interessato in particolare a intelligenza artificiale, progettazione di applicazioni e tecnologie moderne. Orientato al problem solving, all’apprendimento continuo e al lavoro su progetti concreti.
@@ -97,13 +93,3 @@ Approfondimento continuo di nuove tecnologie, con particolare attenzione a intel
 Email: [tommasospada2006@gmail.com](mailto:tommasospada2006@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/tommaso-spada-1b304422b](https://www.linkedin.com/in/tommaso-spada-1b304422b)
 Sito web: [https://www.tommyspada.com](https://www.tommyspada.com)
-
----
-
-Se vuoi, nel prossimo step posso:
-
-* adattarlo **in inglese (versione internazionale)**
-* oppure renderlo più **mirato per stage/lavoro specifico (backend, AI, web)**
-* oppure aggiungere una sezione “Featured Projects” più forte per GitHub
-
-Dimmi 👍
