@@ -20,7 +20,7 @@
 class TommasoSpada:
     name       = "Tommaso Spada"
     age        = 19  # born April 30, 2006
-    location   = "Cuneo, Italy 🇮🇹"
+    location   = "Cuneo, Italy"
     school     = "ITIS Mario Delpozzo — Informatica e Telecomunicazioni (2020 – present)"
     english    = "Cambridge C1 Advanced · Score 181"
 
