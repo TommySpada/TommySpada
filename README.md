@@ -80,7 +80,7 @@ class TommasoSpada:
 | Project | Description | Tech |
 |---|---|---|
 | 📚 **[Biblioteca Madonna dell'Olmo](https://www.bibliotecaparrocchialemdo.it/)** | Institutional website for a parish library — book catalogue, info sections, contacts | Web · HTML/CSS/JS |
-| 🖥️ **PC Recovery & Maintenance** | Refurbishing and assembling PCs for social purposes; DB management with MS Access | Hardware · Access |
+| 🖥️ **PC Recovery & Maintenance** | Refurbishing and assembling PCs for social purposes through DigitaLibera | Hardware |
 | 🐧 **[Penguin Rush](https://github.com/DAriC5/Pinguini_Tattili_Artificiali)** | Videogame that converts physical gestures (micro:bit) into game commands via an AI model | Python · scikit-learn · NumPy · Pandas |
 | 👴 **Digital Literacy Tutoring** | Weekly sessions teaching basic digital skills to senior citizens ("Anziani a Scuola di Informatica") | Community · Education |
 
