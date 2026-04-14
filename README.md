@@ -84,9 +84,9 @@ Assemblaggio e recupero PC, distribuzione a famiglie e studenti, utilizzo di sof
 
 ## Statistiche GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TommySpada\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TommySpada\&layout=compact)
 
 ---
 
