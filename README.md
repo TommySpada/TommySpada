@@ -19,7 +19,7 @@
 ```python
 class TommasoSpada:
     name       = "Tommaso Spada"
-    age        = 19  # born April 30, 2006
+    age        = 20  # born April 30, 2006
     location   = "Cuneo, Italy"
     school     = "ITIS Mario Delpozzo — Informatica e Telecomunicazioni (2020 – present)"
     english    = "Cambridge C1 Advanced · Score 181"
@@ -110,7 +110,7 @@ class TommasoSpada:
 ```
 📍  ITIS "Mario Delpozzo" — Cuneo, Italy
     Indirizzo: Informatica e Telecomunicazioni
-    Anno di inizio: 2020 · In corso
+    Durata: 2020 · 2026
 
 🏅  Cambridge English C1 Advanced
     Score: 181 — Full certificate
