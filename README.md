@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Tommaso%20Spada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Tommaso%20Spada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Junior%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descColor=cccccc" width="100%"/>
 
 </div>
 
@@ -8,37 +8,50 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hi+there!+I'm+Tommaso+Spada+👋;CS+Student+@+ITIS+Mario+Delpozzo+🎓;Cambridge+English+C1+Advanced;Turning+passion+into+solutions+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hi+there!+I'm+Tommaso+Spada+👋;Aspiring+Junior+Software+Developer+💻;IT+Graduate+%7C+76%2F100+🎓;Cambridge+English+C1+Advanced;Turning+passion+into+solutions+⚡)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 ```python
 class TommasoSpada:
     name       = "Tommaso Spada"
     age        = 20  # born April 30, 2006
-    location   = "Cuneo, Italy"
-    school     = "ITIS Mario Delpozzo — Informatica e Telecomunicazioni (2020 – 2026)"
-    english    = "Cambridge C1 Advanced · Score 181"
+    location   = "Cuneo, Italy 🇮🇹"
 
-    interests  = ["Software Development", "Hardware", "Problem Solving", "AI/ML"]
-    
-    currently  = "Building personal projects and deepening my IT knowledge"
-    goal       = "Transform ideas into concrete, well-documented solutions"
+    education = {
+        "school": "ITIS Mario Delpozzo",
+        "field": "Computer Science & Telecommunications",
+        "graduation": "2026",
+        "grade": "76/100"
+    }
+
+    english = "Cambridge C1 Advanced · Score 181"
+
+    interests = [
+        "Software Development",
+        "Hardware",
+        "Problem Solving",
+        "Artificial Intelligence"
+    ]
+
+    currently = "Building personal projects and expanding my software engineering skills"
+    goal      = "Transform ideas into concrete, well-documented solutions"
 ```
 
-> 💡 *The passion for tech was born as a kid — I used to disassemble anything with a cable just to understand how it worked. Today that curiosity has become method, study, and a drive to share what I learn.*
+> 💡 *My passion for technology started as a child—I used to take apart anything with a cable just to understand how it worked. Today, that same curiosity drives me to design, build, and continuously improve software and hardware projects.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -49,6 +62,7 @@ class TommasoSpada:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Environments
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -57,12 +71,14 @@ class TommasoSpada:
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### Systems & Virtualization
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Other
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -73,22 +89,22 @@ class TommasoSpada:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
-|---|---|---|
-| 📚 **[Biblioteca Madonna dell'Olmo](https://www.bibliotecaparrocchialemdo.it/)** | Institutional website for a parish library — book catalogue, info sections, contacts | Web · HTML/CSS/JS |
-| 🖥️ **PC Recovery & Maintenance** | Refurbishing and assembling PCs for social purposes through DigitaLibera | Hardware |
-| 🐧 **[Penguin Rush](https://github.com/DAriC5/Pinguini_Tattili_Artificiali)** | Videogame that converts physical gestures (micro:bit) into game commands via an AI model | Python · scikit-learn · NumPy · Pandas |
-| 👴 **Digital Literacy Tutoring** | Weekly sessions teaching basic digital skills to senior citizens ("Anziani a Scuola di Informatica") | Community · Education |
+|---------|-------------|------|
+| 📚 **[Biblioteca Madonna dell'Olmo](https://www.bibliotecaparrocchialemdo.it/)** | Designed and developed the official website for a parish library, including book catalogue, information pages and contacts | HTML · CSS · JavaScript |
+| 🐧 **[Penguin Rush](https://github.com/DAriC5/Pinguini_Tattili_Artificiali)** | Videogame that converts physical gestures captured by micro:bit into game commands using an AI model | Python · scikit-learn · NumPy · Pandas |
+| 🖥️ **PC Recovery & Maintenance** | Refurbishing, assembling and maintaining PCs for social initiatives, including Microsoft Access database management | Hardware · Microsoft Access |
+| 👴 **Digital Literacy Tutoring** | Weekly volunteering sessions teaching basic digital skills to senior citizens ("Anziani a Scuola di Informatica") | Community · Education |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -105,25 +121,29 @@ class TommasoSpada:
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 
-```
-📍  ITIS "Mario Delpozzo" — Cuneo, Italy
-    Indirizzo: Informatica e Telecomunicazioni
-    Durata: 2020 · 2026
+```text
+📍 ITIS "Mario Delpozzo" — Cuneo, Italy
+   Computer Science & Telecommunications
+   Diploma obtained in 2026
+   Final Grade: 76/100
 
-🏅  Cambridge English C1 Advanced
-    Score: 181 — Full certificate
+🏅 Cambridge English C1 Advanced
+   Score: 181 — Full Certificate
 ```
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TommySpada)
 [![GitHub](https://img.shields.io/badge/GitHub-TommySpada-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TommySpada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tommaso%20Spada-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-spada-1b304422b/)
+[![Instagram](https://img.shields.io/badge/Instagram-@tommy.spadaa-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tommy.spadaa)
+[![Website](https://img.shields.io/badge/Website-tommyspada.com-7C3AED?style=for-the-badge&logo=icloud&logoColor=white)](https://www.tommyspada.com)
+
 
 </div>
 
