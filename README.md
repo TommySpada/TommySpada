@@ -14,7 +14,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+# About Me
 
 ```python
 class TommasoSpada:
@@ -46,7 +46,7 @@ class TommasoSpada:
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# Tech Stack & Tools
 
 <div align="center">
 
@@ -89,22 +89,22 @@ class TommasoSpada:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📚 **[Biblioteca Madonna dell'Olmo](https://www.bibliotecaparrocchialemdo.it/)** | Designed and developed the official website for a parish library, including book catalogue, information pages and contacts | HTML · CSS · JavaScript |
-| 🐧 **[Penguin Rush](https://github.com/DAriC5/Pinguini_Tattili_Artificiali)** | Videogame that converts physical gestures captured by micro:bit into game commands using an AI model | Python · scikit-learn · NumPy · Pandas |
-| 🖥️ **PC Recovery & Maintenance** | Refurbishing, assembling and maintaining PCs for social initiatives, including Microsoft Access database management | Hardware · Microsoft Access |
-| 👴 **Digital Literacy Tutoring** | Weekly volunteering sessions teaching basic digital skills to senior citizens ("Anziani a Scuola di Informatica") | Community · Education |
+| **[Biblioteca Madonna dell'Olmo](https://www.bibliotecaparrocchialemdo.it/)** | Designed and developed the official website for a parish library, including book catalogue, information pages and contacts | HTML · CSS · JavaScript |
+| **[Penguin Rush](https://github.com/DAriC5/Pinguini_Tattili_Artificiali)** | Videogame that converts physical gestures captured by micro:bit into game commands using an AI model | Python · scikit-learn · NumPy · Pandas |
+| **PC Recovery & Maintenance** | Refurbishing, assembling and maintaining PCs for social initiatives, including Microsoft Access database management | Hardware · Microsoft Access |
+| **Digital Literacy Tutoring** | Weekly volunteering sessions teaching basic digital skills to senior citizens ("Anziani a Scuola di Informatica") | Community · Education |
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -121,7 +121,7 @@ class TommasoSpada:
 
 ---
 
-# 🎓 Education & Certifications
+# Education & Certifications
 
 ```text
 📍 ITIS "Mario Delpozzo" — Cuneo, Italy
@@ -135,7 +135,7 @@ class TommasoSpada:
 
 ---
 
-# 🤝 Connect with Me
+# Connect with Me
 
 <div align="center">
 
